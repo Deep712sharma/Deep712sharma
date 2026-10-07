@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepanshi Sharma
-- 👀 I’m interested in Deep Learning, GenAI and IoT.
-- 🌱 I’m currently learning Convolutional Neural Network and Natural Language Processing.
+- 👀 I’m interested in Deep Learning and GenAI.
+- 🌱 I’m currently learning RL and Agentic AI.
 - 💞️ I’m looking to collaborate on Deep Learning projects.
 - 📫 How to reach me ... deepanshisharma0720@gmail.com
 
